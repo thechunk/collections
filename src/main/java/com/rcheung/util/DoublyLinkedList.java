@@ -1,4 +1,4 @@
-package doublylinkedlist;
+package com.rcheung.util;
 
 import java.util.Iterator;
 

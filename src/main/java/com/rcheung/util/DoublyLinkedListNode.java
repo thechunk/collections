@@ -1,4 +1,4 @@
-package doublylinkedlist;
+package com.rcheung.util;
 
 class DoublyLinkedListNode<ValueType> {
 	private DoublyLinkedListNode<ValueType> prev;

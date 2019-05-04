@@ -1,4 +1,4 @@
-package set;
+package com.rcheung.util;
 
 import org.junit.After;
 import org.junit.Before;

@@ -1,4 +1,4 @@
-package queue;
+package com.rcheung.util;
 
 public class Queue {
 	private int[] queue;

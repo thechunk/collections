@@ -1,4 +1,4 @@
-package set;
+package com.rcheung.util;
 
 import java.util.Collection;
 import java.util.HashMap;
